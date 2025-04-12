@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# SQLite database
+*.db
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Mypy
+.mypy_cache/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Other
+*.bak
+*.swp
